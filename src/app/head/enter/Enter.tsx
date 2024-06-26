@@ -1,6 +1,6 @@
 import React from "react";
 import './Enter.css';
-import image from './Enter.png';
+const image = require('./Enter.png');
 
 export function Enter() {
     return (

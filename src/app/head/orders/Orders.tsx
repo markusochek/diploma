@@ -1,6 +1,7 @@
 import React from "react";
 import './Orders.css';
-import image from './Orders.png';
+const image = require('./Orders.png');
+
 
 export function Orders() {
     return (

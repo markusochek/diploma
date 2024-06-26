@@ -2,6 +2,7 @@
     flex-grow: 5;
     Height: 70%;
     align-self : center;
+    display: flex;
 
     background: #B588FF;
 }

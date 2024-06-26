@@ -1,6 +1,6 @@
 import React from "react";
 import './Basket.css';
-import image from './Basket.png';
+const image = require('./Basket.png');
 
 export function Basket() {
     return (

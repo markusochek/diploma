@@ -1,6 +1,6 @@
 import React from "react";
 import './Favourites.css';
-import image from './Favourites.png';
+const image = require('./Favourites.png');
 
 export function Favourites() {
     return (
