@@ -1,11 +1,12 @@
 import React from "react";
 import './Enter.css';
-
+import image from './Enter.png';
 
 export function Enter() {
     return (
         <div className={"Enter"}>
-            Enter
+            <img  src={image}  alt={"Войти"}/>
+            <div>Войти</div>
         </div>
     )
 }
